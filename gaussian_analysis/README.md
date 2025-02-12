@@ -1,0 +1,1 @@
+This directory contains analysis on a Gaussian process. The process being measured is the time it takes for a simple executable to run a loop. Each loop iteration time is measured and saved. It is hypothesized that this process should be normally distributed.
